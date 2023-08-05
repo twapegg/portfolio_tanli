@@ -1,7 +1,7 @@
 const images = [
   {
     id: 1,
-    src: "/../public/images/works/1.PNG",
+    src: "/public/images/works/1.PNG",
     alt: "Elysian - a fullstack e-commerce app",
     title: "Elysian",
     description:
@@ -12,7 +12,7 @@ const images = [
   },
   {
     id: 2,
-    src: "/../public/images/works/2.PNG",
+    src: "/public/images/works/2.PNG",
     alt: "MovieLand",
     title: "MovieLand",
     description: "A movie search app using the OMDB API.",
