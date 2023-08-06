@@ -1,7 +1,10 @@
+import elysian from "../public/images/works/1.PNG";
+import movieland from "../public/images/works/2.PNG";
+
 const images = [
   {
     id: 1,
-    src: "/public/images/works/1.PNG",
+    src: elysian,
     alt: "Elysian - a fullstack e-commerce app",
     title: "Elysian",
     description:
@@ -12,8 +15,8 @@ const images = [
   },
   {
     id: 2,
-    src: "/public/images/works/2.PNG",
-    alt: "MovieLand",
+    src: movieland,
+    alt: "MovieLand - a movie search app",
     title: "MovieLand",
     description: "A movie search app using the OMDB API.",
     technologies: ["react.js", "omdb API"],
