@@ -4,16 +4,17 @@ import { AiOutlineDown } from "react-icons/ai";
 
 export default function Hero() {
   const skills = [
-    "c/c++",
-    "html5/css3",
-    "javascript es6+",
-    "bootstrap",
-    "tailwind",
-    "react.js",
-    "next.js",
-    "mongoDB",
-    "express.js",
-    "node.js",
+    "C/C++",
+    "Python",
+    "Java",
+    "HTML/CSS",
+    "Javascript",
+    "SQL",
+    "Tailwind",
+    "React (Next.js)",
+    "MongoDB",
+    "Express.js",
+    "Node.js",
   ];
 
   return (
